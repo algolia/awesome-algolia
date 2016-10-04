@@ -21,6 +21,23 @@
 - [Release Notes](https://www.algolia.com/changes)
 - [Blog](https://blog.algolia.com/)
 
+### Official API Clients
+
+- [PHP](https://github.com/algolia/algoliasearch-client-php)
+- [JavaScript](https://github.com/algolia/algoliasearch-client-js)
+- [Ruby](https://github.com/algolia/algoliasearch-client-ruby)
+- [Python](https://github.com/algolia/algoliasearch-client-python)
+- [iOS](https://github.com/algolia/algoliasearch-client-swift)
+- [Android](https://github.com/algolia/algoliasearch-client-android)
+- [C#](https://github.com/algolia/algoliasearch-client-csharp)
+- [Java](https://github.com/algolia/algoliasearch-client-java)
+- [Go](https://github.com/algolia/algoliasearch-client-go)
+- [Scala](https://github.com/algolia/algoliasearch-client-scala)
+- [Rails](https://github.com/algolia/algoliasearch-rails)
+- [Symfony](https://github.com/algolia/AlgoliaSearchBundle)
+- [Django](https://github.com/algolia/algoliasearch-django)
+- [Laravel](https://github.com/algolia/algoliasearch-laravel)
+
 ### Projects Using Algolia
 
 - #### Enterprise Usage
