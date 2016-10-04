@@ -10,8 +10,12 @@
 > A curated list of awesome things related to Algolia
 
 - [Official Resources](#official-resources)
-- [Community](#community)
+- [Official API Clients](#official-api-clients)
+- [Integrations](#integrations)
+- [Libraries & Tools](#libraries--tools)
 - [Projects Using Algolia](#projects-using-algolia)
+  - [Examples](#examples)
+  - [Tools](#tools)
   - [Enterprise Usage](#enterprise-usage)
 
 ### Official Resources
@@ -38,7 +42,33 @@
 - [Django](https://github.com/algolia/algoliasearch-django)
 - [Laravel](https://github.com/algolia/algoliasearch-laravel)
 
+### Integrations
+
+- [WordPress](https://community.algolia.com/wordpress)
+- [Magento](https://community.algolia.com/magento/)
+- [Magento 2](https://community.algolia.com/magento/)
+- [Zendesk](https://community.algolia.com/zendesk/)
+- [Jekyll](https://github.com/algolia/algoliasearch-jekyll)
+
+### Libraries & Tools
+
+- [Algolia JS Helper](https://community.algolia.com/algoliasearch-helper-js/)
+- [instantsearch.js](https://community.algolia.com/instantsearch.js/)
+- [autocomplete.js](https://github.com/algolia/autocomplete.js)
+- [Algolia Places](https://community.algolia.com/places/)
+- [expect jsx](https://github.com/algolia/expect-jsx)
+- [Searchbox builder](http://shipow.github.io/searchbox/)
+
 ### Projects Using Algolia
+
+- #### Examples
+
+	- [Search Hacker News](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+
+- #### Tools
+
+	- [GitHub awesome autocomplete](https://github.algolia.com/)
+	- [Meta](https://www.meta.sc/)
 
 - #### Enterprise Usage
 
