@@ -64,13 +64,11 @@
 
 ### Projects Using Algolia
 
-- #### Examples
-
-	- [Product Hunt](https://www.producthunt.com/search/posts)
-	- [Hacker News Search](https://hn.algolia.com/)
-	- [FontAwesome](http://fontawesome.io/icons/)
-	- [DocSearch Partners](https://community.algolia.com/docsearch/)
-	- [Algolia Customers and Case Studies](https://www.algolia.com/customers)
+- [Product Hunt](https://www.producthunt.com/search/posts)
+- [Hacker News Search](https://hn.algolia.com/)
+- [FontAwesome](http://fontawesome.io/icons/)
+- [DocSearch Partners](https://community.algolia.com/docsearch/)
+- [Algolia Customers and Case Studies](https://www.algolia.com/customers)
 
 ## License
 
