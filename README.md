@@ -14,16 +14,17 @@
 - [Integrations](#integrations)
 - [Libraries & Tools](#libraries--tools)
 - [Projects Using Algolia](#projects-using-algolia)
-  - [Examples](#examples)
-  - [Tools](#tools)
-  - [Enterprise Usage](#enterprise-usage)
 
 ### Official Resources
 
 - [Official Docs](https://www.algolia.com/doc/)
+- [Community Home Page](https://community.algolia.com/)
+- [Service Status](https://status.algolia.com/)
+- [Support Center](https://www.algolia.com/support)
 - [FAQ](https://www.algolia.com/doc/faq)
 - [Release Notes](https://www.algolia.com/changes)
 - [Blog](https://blog.algolia.com/)
+- [Algolia Stories](https://stories.algolia.com/) (Medium publication)
 
 ### Official API Clients
 
@@ -52,10 +53,12 @@
 
 ### Libraries & Tools
 
-- [Algolia JS Helper](https://community.algolia.com/algoliasearch-helper-js/)
 - [instantsearch.js](https://community.algolia.com/instantsearch.js/)
 - [autocomplete.js](https://github.com/algolia/autocomplete.js)
+- [Algolia JS Helper](https://community.algolia.com/algoliasearch-helper-js/)
 - [Algolia Places](https://community.algolia.com/places/)
+- [DocSearch](https://community.algolia.com/docsearch/)
+- [Awesome Autocomplete for Github](https://github.algolia.com/)
 - [expect jsx](https://github.com/algolia/expect-jsx)
 - [Searchbox builder](http://shipow.github.io/searchbox/)
 
@@ -63,23 +66,11 @@
 
 - #### Examples
 
-	- [Search Hacker News](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
-
-- #### Tools
-
-	- [GitHub awesome autocomplete](https://github.algolia.com/)
-	- [Meta](https://www.meta.sc/)
-
-- #### Enterprise Usage
-
-	- Product Hunt
-	- CrunchBase
-	- DigitalOcean
-	- Periscope
-	- Vevo
-	- Medium
-	- BIRCHBOX
-	- Twitch
+	- [Product Hunt](https://www.producthunt.com/search/posts)
+	- [Hacker News Search](https://hn.algolia.com/)
+	- [FontAwesome](http://fontawesome.io/icons/)
+	- [DocSearch Partners](https://community.algolia.com/docsearch/)
+	- [Algolia Customers and Case Studies](https://www.algolia.com/customers)
 
 ## License
 
