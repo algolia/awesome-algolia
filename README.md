@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="https://res.cloudinary.com/hilnmyskv/image/upload/w_100,h_100,dpr_3.0//v1461180079/logo-algolia.png" alt="awesome">
+  <img width="400" src="https://rawgit.com/algolia/awesome-algolia/master/logo.png" alt="awesome">
   <br>
   <br>
 </p>
