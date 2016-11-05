@@ -15,6 +15,7 @@
 - [Libraries & Tools](#libraries--tools)
 - [Demos](#demos)
 - [Projects using Algolia](#projects-using-algolia)
+- [Guides, Tutorials & Blog Posts](#guides-tutorials-blog--posts)
 
 ### Official Resources
 
@@ -82,6 +83,15 @@
 - [FontAwesome](http://fontawesome.io/icons/)
 - [DocSearch Partners](https://community.algolia.com/docsearch/)
 - [Algolia Customers and Case Studies](https://www.algolia.com/customers)
+
+### Guides, Tutorials & Blog Posts
+
+  - *Inside the Algolia Engine* blog post series
+      - [Part 1—Indexing vs. Search](https://blog.algolia.com/inside-the-algolia-engine-part-1-indexing-vs-search/)
+      - [Part 2—The Indexing Challenge of Instant Search](https://blog.algolia.com/inside-the-algolia-engine-part-2-the-indexing-challenge-of-instant-search/)
+      - [Part 3—Query Processing](https://blog.algolia.com/inside-the-algolia-engine-part-3-query-processing/)
+      - [Part 4—Textual Relevance](https://blog.algolia.com/inside-the-algolia-enginepart-4-textual-relevance/)
+      - [Part 5—Highlighting, a Cornerstone to Search UX](https://blog.algolia.com/inside-the-algolia-engine-part-5-highlighting-a-cornerstone-to-search-ux/)
 
 ## License
 
