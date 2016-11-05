@@ -7,13 +7,14 @@
 
 ## Awesome Algolia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/algolia/awesome-algolia)
 
-> A curated list of awesome things related to Algolia, inspired by [awesome.re](http://awesome.re)
+> A curated list of awesome things related to Algolia, inspired by [awesome.re](http://awesome.re).
 
 - [Official Resources](#official-resources)
 - [Official API Clients](#official-api-clients)
 - [Integrations](#integrations)
 - [Libraries & Tools](#libraries--tools)
-- [Projects Using Algolia](#projects-using-algolia)
+- [Demos](#demos)
+- [Projects using Algolia](#projects-using-algolia)
 
 ### Official Resources
 
@@ -62,7 +63,18 @@
 - [expect jsx](https://github.com/algolia/expect-jsx)
 - [Searchbox builder](http://shipow.github.io/searchbox/)
 
-### Projects Using Algolia
+### Demos
+
+- [instantsearch product search](https://demos.algolia.com/instant-search-demo/) ([code](https://github.com/algolia/instant-search-demo))
+- [instantsearch for smashingmagazine.com](https://community.algolia.com/demo-smashingmagazine/) ([code](https://github.com/algolia/demo-smashingmagazine/))
+- [Geo search for airports](https://demos.algolia.com/geo-search-demo/) ([code](https://github.com/algolia/demo-geo-search))
+- [instantsearch for media](https://community.algolia.com/instantsearch.js/examples/media/) ([code](https://github.com/algolia/instantsearch.js/tree/master/docs/examples/media))
+- [instantsearch for ecommerce](https://community.algolia.com/instantsearch.js/examples/e-commerce/) ([code](https://github.com/algolia/instantsearch.js/tree/master/docs/examples/e-commerce))
+- [instantsearch for vacation rentals](https://community.algolia.com/instantsearch.js/examples/tourism/) ([code](https://github.com/algolia/instantsearch.js/tree/master/docs/examples/tourism))
+- [instantsearch with AdSense](https://demo.algolia.com/examples/instant-search-google-adsense/) ([code](https://github.com/algolia/examples/tree/master/instant-search/google-adsense))
+- [Textarea autocomplete for @-mentions](https://demo.algolia.com/examples/textarea-autocomplete/basic-autocomplete.html) ([code](https://github.com/algolia/examples/tree/master/textarea-autocomplete))
+
+### Projects using Algolia
 
 - [Product Hunt](https://www.producthunt.com/search/posts)
 - [Hacker News Search](https://hn.algolia.com/)
