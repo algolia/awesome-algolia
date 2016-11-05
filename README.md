@@ -92,11 +92,9 @@
       - [Part 3—Query Processing](https://blog.algolia.com/inside-the-algolia-engine-part-3-query-processing/)
       - [Part 4—Textual Relevance](https://blog.algolia.com/inside-the-algolia-enginepart-4-textual-relevance/)
       - [Part 5—Highlighting, a Cornerstone to Search UX](https://blog.algolia.com/inside-the-algolia-engine-part-5-highlighting-a-cornerstone-to-search-ux/)
-  - *Algolia's Fury Road to a Worldwide API* series on [highscalability.com](http://highscalability.com/)
-    - [Part 1](http://highscalability.com/blog/2015/7/13/algolias-fury-road-to-a-worldwide-api.html)
-    - [Part 2](http://highscalability.com/blog/2015/7/20/algolias-fury-road-to-a-worldwide-api-steps-part-2.html)
-    - [Part 3](http://highscalability.com/blog/2015/7/27/algolias-fury-road-to-a-worldwide-api-part-3.html)
-    
+  - [Algolia's Fury Road to a Worldwide API](https://stories.algolia.com/algolia-s-fury-road-to-a-worldwide-api-c1536c46f3a5)
+  - [The Architecture Of Algolia’s Distributed Search Network](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
+  - [How Algolia Built Their Realtime Search as a Service Product](http://stackshare.io/posts/how-algolia-built-their-realtime-search-as-a-service-product)
 
 ## License
 
