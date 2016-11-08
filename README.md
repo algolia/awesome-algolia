@@ -16,6 +16,7 @@
 - [Demos](#demos)
 - [Projects using Algolia](#projects-using-algolia)
 - [Guides, Tutorials & Blog Posts](#guides-tutorials-blog--posts)
+- [Other](#user-content-other)
 
 ### Official Resources
 
