@@ -86,7 +86,7 @@
 - [Oval Quotes](http://oval-quotes.dzello.com/)
 - [DocSearch Partners](https://community.algolia.com/docsearch/)
 - [Algolia Customers and Case Studies](https://www.algolia.com/customers)
-- [BetaList Jobs](betalist.com/jobs)
+- [BetaList Jobs](https://betalist.com/jobs)
 
 ### Guides, Tutorials & Blog Posts
 
