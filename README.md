@@ -98,6 +98,9 @@
   - [The Architecture Of Algolia’s Distributed Search Network](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
   - [How Algolia Built Their Realtime Search as a Service Product](http://stackshare.io/posts/how-algolia-built-their-realtime-search-as-a-service-product)
 
+### Other 
+- [Algolia team on Codepen](https://codepen.io/team/algolia/)
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
