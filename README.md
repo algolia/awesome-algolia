@@ -15,7 +15,7 @@
 - [Libraries & Tools](#libraries--tools)
 - [Demos](#demos)
 - [Projects using Algolia](#projects-using-algolia)
-- [Guides, Tutorials & Blog Posts](#guides-tutorials-blog--posts)
+- [Guides, Tutorials & Blog Posts](#guides-tutorials--blog-posts)
 - [Other](#other)
 
 ### Official Resources
