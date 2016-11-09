@@ -9,31 +9,26 @@
 
 > A curated list of awesome things related to Algolia, inspired by [awesome.re](http://awesome.re).
 
--
+## Table of Contents
 
-## Contents
-
-- [Official Resources](#official-resources)
-- [Official API Clients](#official-api-clients)
+- [API Resources](#api-resources)
+- [API Clients](#api-clients)
 - [Integrations](#integrations)
 - [Libraries & Tools](#libraries--tools)
 - [Demos](#demos)
-- [Projects using Algolia](#projects-using-algolia)
+- [Community Projects](#community-projects)
 - [Guides, Tutorials & Blog Posts](#guides-tutorials--blog-posts)
 - [Other](#other)
 
-## Official Resources
+## API Resources
 
-- [Official Docs](https://www.algolia.com/doc/)
-- [Community Home Page](https://community.algolia.com/)
+- [Documentation](https://www.algolia.com/doc/)
 - [Service Status](https://status.algolia.com/)
 - [Support Center](https://www.algolia.com/support)
-- [FAQ](https://www.algolia.com/doc/faq)
 - [Release Notes](https://www.algolia.com/changes)
-- [Blog](https://blog.algolia.com/)
-- [Algolia Stories](https://stories.algolia.com/) (Medium publication)
+- [FAQ](https://www.algolia.com/doc/faq)
 
-## Official API Clients
+## API Clients
 
 - [PHP](https://github.com/algolia/algoliasearch-client-php)
 - [JavaScript](https://github.com/algolia/algoliasearch-client-js)
@@ -81,8 +76,9 @@
 - [instantsearch with AdSense](https://demo.algolia.com/examples/instant-search-google-adsense/) ([code](https://github.com/algolia/examples/tree/master/instant-search/google-adsense))
 - [Textarea autocomplete for @-mentions](https://demo.algolia.com/examples/textarea-autocomplete/basic-autocomplete.html) ([code](https://github.com/algolia/examples/tree/master/textarea-autocomplete))
 
-## Projects using Algolia
+## Community Projects
 
+- [Community Home Page](https://community.algolia.com/)
 - [Product Hunt](https://www.producthunt.com/search/posts)
 - [Hacker News Search](https://hn.algolia.com/)
 - [FontAwesome](http://fontawesome.io/icons/)
@@ -94,18 +90,20 @@
 
 ## Guides, Tutorials & Blog Posts
 
-  - *Inside the Algolia Engine* blog post series
-      - [Part 1—Indexing vs. Search](https://blog.algolia.com/inside-the-algolia-engine-part-1-indexing-vs-search/)
-      - [Part 2—The Indexing Challenge of Instant Search](https://blog.algolia.com/inside-the-algolia-engine-part-2-the-indexing-challenge-of-instant-search/)
-      - [Part 3—Query Processing](https://blog.algolia.com/inside-the-algolia-engine-part-3-query-processing/)
-      - [Part 4—Textual Relevance](https://blog.algolia.com/inside-the-algolia-enginepart-4-textual-relevance/)
-      - [Part 5—Highlighting, a Cornerstone to Search UX](https://blog.algolia.com/inside-the-algolia-engine-part-5-highlighting-a-cornerstone-to-search-ux/)
-  - [Algolia's Fury Road to a Worldwide API](https://stories.algolia.com/algolia-s-fury-road-to-a-worldwide-api-c1536c46f3a5)
-  - [The Architecture Of Algolia’s Distributed Search Network](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
-  - [How Algolia Built Their Realtime Search as a Service Product](http://stackshare.io/posts/how-algolia-built-their-realtime-search-as-a-service-product)
+ - [Algolia Blog](https://blog.algolia.com/)
+ - [Algolia Stories](https://stories.algolia.com/)
+ - *Inside the Algolia Engine* blog post series
+   - [Part 1—Indexing vs. Search](https://blog.algolia.com/inside-the-algolia-engine-part-1-indexing-vs-search/)
+   - [Part 2—The Indexing Challenge of Instant Search](https://blog.algolia.com/inside-the-algolia-engine-part-2-the-indexing-challenge-of-instant-search/)
+   - [Part 3—Query Processing](https://blog.algolia.com/inside-the-algolia-engine-part-3-query-processing/)
+   - [Part 4—Textual Relevance](https://blog.algolia.com/inside-the-algolia-enginepart-4-textual-relevance/)
+   - [Part 5—Highlighting, a Cornerstone to Search UX](https://blog.algolia.com/inside-the-algolia-engine-part-5-highlighting-a-cornerstone-to-search-ux/)
+- [Algolia's Fury Road to a Worldwide API](https://stories.algolia.com/algolia-s-fury-road-to-a-worldwide-api-c1536c46f3a5)
+- [The Architecture Of Algolia’s Distributed Search Network](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
+- [How Algolia Built Their Realtime Search as a Service Product](http://stackshare.io/posts/how-algolia-built-their-realtime-search-as-a-service-product)
 
 ## Other 
-- [Algolia team on Codepen](https://codepen.io/team/algolia/)
+- [Algolia Codepen](https://codepen.io/team/algolia/)
 
 ## License
 
