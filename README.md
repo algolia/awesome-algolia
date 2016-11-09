@@ -9,6 +9,10 @@
 
 > A curated list of awesome things related to Algolia, inspired by [awesome.re](http://awesome.re).
 
+-
+
+## Contents
+
 - [Official Resources](#official-resources)
 - [Official API Clients](#official-api-clients)
 - [Integrations](#integrations)
@@ -18,7 +22,7 @@
 - [Guides, Tutorials & Blog Posts](#guides-tutorials--blog-posts)
 - [Other](#other)
 
-### Official Resources
+## Official Resources
 
 - [Official Docs](https://www.algolia.com/doc/)
 - [Community Home Page](https://community.algolia.com/)
@@ -29,7 +33,7 @@
 - [Blog](https://blog.algolia.com/)
 - [Algolia Stories](https://stories.algolia.com/) (Medium publication)
 
-### Official API Clients
+## Official API Clients
 
 - [PHP](https://github.com/algolia/algoliasearch-client-php)
 - [JavaScript](https://github.com/algolia/algoliasearch-client-js)
@@ -46,7 +50,7 @@
 - [Django](https://github.com/algolia/algoliasearch-django)
 - [Laravel](https://github.com/algolia/algoliasearch-laravel)
 
-### Integrations
+## Integrations
 
 - [WordPress](https://community.algolia.com/wordpress)
 - [Magento](https://community.algolia.com/magento/)
@@ -55,7 +59,7 @@
 - [Zendesk](https://community.algolia.com/zendesk/)
 - [Jekyll](https://github.com/algolia/algoliasearch-jekyll)
 
-### Libraries & Tools
+## Libraries & Tools
 
 - [instantsearch.js](https://community.algolia.com/instantsearch.js/)
 - [autocomplete.js](https://github.com/algolia/autocomplete.js)
@@ -66,7 +70,7 @@
 - [expect jsx](https://github.com/algolia/expect-jsx)
 - [Searchbox builder](http://shipow.github.io/searchbox/)
 
-### Demos
+## Demos
 
 - [instantsearch product search](https://demos.algolia.com/instant-search-demo/) ([code](https://github.com/algolia/instant-search-demo))
 - [instantsearch for smashingmagazine.com](https://community.algolia.com/demo-smashingmagazine/) ([code](https://github.com/algolia/demo-smashingmagazine/))
@@ -77,7 +81,7 @@
 - [instantsearch with AdSense](https://demo.algolia.com/examples/instant-search-google-adsense/) ([code](https://github.com/algolia/examples/tree/master/instant-search/google-adsense))
 - [Textarea autocomplete for @-mentions](https://demo.algolia.com/examples/textarea-autocomplete/basic-autocomplete.html) ([code](https://github.com/algolia/examples/tree/master/textarea-autocomplete))
 
-### Projects using Algolia
+## Projects using Algolia
 
 - [Product Hunt](https://www.producthunt.com/search/posts)
 - [Hacker News Search](https://hn.algolia.com/)
@@ -88,7 +92,7 @@
 - [Algolia Customers and Case Studies](https://www.algolia.com/customers)
 - [BetaList Jobs](https://betalist.com/jobs)
 
-### Guides, Tutorials & Blog Posts
+## Guides, Tutorials & Blog Posts
 
   - *Inside the Algolia Engine* blog post series
       - [Part 1—Indexing vs. Search](https://blog.algolia.com/inside-the-algolia-engine-part-1-indexing-vs-search/)
@@ -100,7 +104,7 @@
   - [The Architecture Of Algolia’s Distributed Search Network](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
   - [How Algolia Built Their Realtime Search as a Service Product](http://stackshare.io/posts/how-algolia-built-their-realtime-search-as-a-service-product)
 
-### Other 
+## Other 
 - [Algolia team on Codepen](https://codepen.io/team/algolia/)
 
 ## License
