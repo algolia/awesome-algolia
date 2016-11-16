@@ -83,6 +83,7 @@
 - [Hacker News Search](https://hn.algolia.com/)
 - [FontAwesome](http://fontawesome.io/icons/)
 - [Searchstone](http://searchstone.io/)
+- [Marvel Super-Search](https://community.algolia.com/marvel-search/)
 - [Oval Quotes](http://oval-quotes.dzello.com/)
 - [DocSearch Partners](https://community.algolia.com/docsearch/)
 - [Algolia Customers and Case Studies](https://www.algolia.com/customers)
