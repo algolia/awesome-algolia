@@ -111,6 +111,7 @@
 
 ## Other 
 - [Algolia Codepen](https://codepen.io/team/algolia/)
+- [Algolia on Product Hunt](https://lukyvj.github.io/algolia-ph/)
 
 ## License
 
