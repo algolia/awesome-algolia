@@ -18,6 +18,7 @@
 - [Demos](#demos)
 - [Community Projects](#community-projects)
 - [Guides, Tutorials & Blog Posts](#guides-tutorials--blog-posts)
+- [Culture](#culture)
 - [Other](#other)
 
 ## API Resources
@@ -103,6 +104,10 @@
 - [Algolia's Fury Road to a Worldwide API](https://stories.algolia.com/algolia-s-fury-road-to-a-worldwide-api-c1536c46f3a5)
 - [The Architecture Of Algolia’s Distributed Search Network](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
 - [How Algolia Built Their Realtime Search as a Service Product](http://stackshare.io/posts/how-algolia-built-their-realtime-search-as-a-service-product)
+
+## Culture
+
+- [How Algolia built a Culture-First Company around Ownership](https://stories.algolia.com/how-algolia-built-a-culture-first-company-around-ownership-eee6623b1b6)
 
 ## Other 
 - [Algolia Codepen](https://codepen.io/team/algolia/)
