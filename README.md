@@ -91,14 +91,15 @@
 
 ## Guides, Tutorials & Blog Posts
 
- - [Algolia Blog](https://blog.algolia.com/)
- - [Algolia Stories](https://stories.algolia.com/)
- - *Inside the Algolia Engine* blog post series
-   - [Part 1—Indexing vs. Search](https://blog.algolia.com/inside-the-algolia-engine-part-1-indexing-vs-search/)
-   - [Part 2—The Indexing Challenge of Instant Search](https://blog.algolia.com/inside-the-algolia-engine-part-2-the-indexing-challenge-of-instant-search/)
-   - [Part 3—Query Processing](https://blog.algolia.com/inside-the-algolia-engine-part-3-query-processing/)
-   - [Part 4—Textual Relevance](https://blog.algolia.com/inside-the-algolia-enginepart-4-textual-relevance/)
-   - [Part 5—Highlighting, a Cornerstone to Search UX](https://blog.algolia.com/inside-the-algolia-engine-part-5-highlighting-a-cornerstone-to-search-ux/)
+- [Algolia Blog](https://blog.algolia.com/)
+- [Algolia Stories](https://stories.algolia.com/)
+- *Inside the Algolia Engine* blog post series
+  - [Part 1—Indexing vs. Search](https://blog.algolia.com/inside-the-algolia-engine-part-1-indexing-vs-search/)
+  - [Part 2—The Indexing Challenge of Instant Search](https://blog.algolia.com/inside-the-algolia-engine-part-2-the-indexing-challenge-of-instant-search/)
+  - [Part 3—Query Processing](https://blog.algolia.com/inside-the-algolia-engine-part-3-query-processing/)
+  - [Part 4—Textual Relevance](https://blog.algolia.com/inside-the-algolia-enginepart-4-textual-relevance/)
+  - [Part 5—Highlighting, a Cornerstone to Search UX](https://blog.algolia.com/inside-the-algolia-engine-part-5-highlighting-a-cornerstone-to-search-ux/)
+  - [Part 6—Handling Synonyms the Right Way](https://blog.algolia.com/inside-the-engine-part-6-handling-synonyms-the-right-way/)  
 - [Algolia's Fury Road to a Worldwide API](https://stories.algolia.com/algolia-s-fury-road-to-a-worldwide-api-c1536c46f3a5)
 - [The Architecture Of Algolia’s Distributed Search Network](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
 - [How Algolia Built Their Realtime Search as a Service Product](http://stackshare.io/posts/how-algolia-built-their-realtime-search-as-a-service-product)
