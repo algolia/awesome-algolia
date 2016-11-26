@@ -13,11 +13,12 @@
 
 - [API Resources](#api-resources)
 - [API Clients](#api-clients)
+- [Guides & Tutorials](#guides--tutorials)
 - [Integrations](#integrations)
 - [Libraries & Tools](#libraries--tools)
 - [Demos](#demos)
 - [Community Projects](#community-projects)
-- [Guides, Tutorials & Blog Posts](#guides-tutorials--blog-posts)
+- [Blog Posts](#blog-posts)
 - [Culture](#culture)
 - [Other](#other)
 
@@ -90,8 +91,11 @@
 - [Algolia Customers and Case Studies](https://www.algolia.com/customers)
 - [BetaList Jobs](https://betalist.com/jobs)
 
-## Guides, Tutorials & Blog Posts
+## Guides & Tutorials
+- [Getting Started — How it Works Guide](https://www.algolia.com/doc/guides/getting-started/how-it-works)
+- [Getting Started — Quickstart](https://www.algolia.com/doc/guides/getting-started/quick-start)
 
+## Blog Posts
 - [Algolia Blog](https://blog.algolia.com/)
 - [Algolia Stories](https://stories.algolia.com/)
 - *Inside the Algolia Engine* blog post series
