@@ -66,6 +66,7 @@
 - [Awesome Autocomplete for Github](https://github.algolia.com/)
 - [expect jsx](https://github.com/algolia/expect-jsx)
 - [Searchbox builder](http://shipow.github.io/searchbox/)
+- [Algolia Search Grader](https://grader.algolia.com/)
 
 ## Demos
 
