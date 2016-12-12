@@ -91,6 +91,7 @@
 - [DocSearch Partners](https://community.algolia.com/docsearch/)
 - [Algolia Customers and Case Studies](https://www.algolia.com/customers)
 - [BetaList Jobs](https://betalist.com/jobs)
+- [windtoday.co](https://windtoday.co)
 
 ## Guides & Tutorials
 - [Getting Started — How it Works Guide](https://www.algolia.com/doc/guides/getting-started/how-it-works)
