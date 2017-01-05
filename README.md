@@ -92,6 +92,8 @@
 - [Algolia Customers and Case Studies](https://www.algolia.com/customers)
 - [BetaList Jobs](https://betalist.com/jobs)
 - [windtoday.co](https://windtoday.co)
+- [Apifood.co](http://apifood.co)
+- [Clinton and Trump Said...](http://clintonandtrumpsaid.com)
 
 ## Guides & Tutorials
 - [Getting Started — How it Works Guide](https://www.algolia.com/doc/guides/getting-started/how-it-works)
