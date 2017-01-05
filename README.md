@@ -47,7 +47,7 @@
 - [Django](https://github.com/algolia/algoliasearch-django)
 - [Laravel](https://github.com/algolia/algoliasearch-laravel)
 
-## Integrations
+## Official Integrations
 
 - [WordPress](https://community.algolia.com/wordpress)
 - [Magento](https://community.algolia.com/magento/)
@@ -55,6 +55,10 @@
 - [Shopify](https://community.algolia.com/shopify/)
 - [Zendesk](https://community.algolia.com/zendesk/)
 - [Jekyll](https://github.com/algolia/algoliasearch-jekyll)
+
+## Community Integrations
+
+- [SiteCore](https://github.com/dharnitski/Sitecore.Algolia)
 
 ## Libraries & Tools
 
