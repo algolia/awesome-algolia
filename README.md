@@ -14,11 +14,13 @@
 - [API Resources](#api-resources)
 - [API Clients](#api-clients)
 - [Guides & Tutorials](#guides--tutorials)
-- [Integrations](#integrations)
+- [Official Integrations](#official-integrations)
+- [Community Integrations](#community-integrations)
 - [Libraries & Tools](#libraries--tools)
 - [Demos](#demos)
 - [Community Projects](#community-projects)
 - [Blog Posts](#blog-posts)
+- [Community Blog Posts](#community-blog-posts)
 - [Culture](#culture)
 - [Other](#other)
 
@@ -99,6 +101,7 @@
 - [windtoday.co](https://windtoday.co)
 - [Apifood.co](http://apifood.co)
 - [Clinton and Trump Said...](http://clintonandtrumpsaid.com)
+- [Sherlock Search](http://pixelastic.github.io/sherlock-search/)
 
 ## Guides & Tutorials
 - [Getting Started — How it Works Guide](https://www.algolia.com/doc/guides/getting-started/how-it-works)
@@ -117,6 +120,10 @@
 - [Algolia's Fury Road to a Worldwide API](https://stories.algolia.com/algolia-s-fury-road-to-a-worldwide-api-c1536c46f3a5)
 - [The Architecture Of Algolia’s Distributed Search Network](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
 - [How Algolia Built Their Realtime Search as a Service Product](http://stackshare.io/posts/how-algolia-built-their-realtime-search-as-a-service-product)
+
+## Community Blog Posts
+
+- [Indexing PDF Or Other File Contents For Searching](https://medium.com/@obahareth/indexing-pdf-or-other-file-contents-for-searching-b2499c23568f#.ekfy6dw1s)
 
 ## Culture
 
