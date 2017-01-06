@@ -102,6 +102,7 @@
 - [Apifood.co](http://apifood.co)
 - [Clinton and Trump Said...](http://clintonandtrumpsaid.com)
 - [Sherlock Search](http://pixelastic.github.io/sherlock-search/)
+- [ParisWeb conferences](https://pixelastic.github.io/parisweb/)
 
 ## Guides & Tutorials
 - [Getting Started — How it Works Guide](https://www.algolia.com/doc/guides/getting-started/how-it-works)
