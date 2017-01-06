@@ -84,7 +84,7 @@
 - [instantsearch for ecommerce](https://community.algolia.com/instantsearch.js/examples/e-commerce/) ([code](https://github.com/algolia/instantsearch.js/tree/master/docs/examples/e-commerce))
 - [instantsearch for vacation rentals](https://community.algolia.com/instantsearch.js/examples/tourism/) ([code](https://github.com/algolia/instantsearch.js/tree/master/docs/examples/tourism))
 - [instantsearch with AdSense](https://demo.algolia.com/examples/instant-search-google-adsense/) ([code](https://github.com/algolia/examples/tree/master/instant-search/google-adsense))
-- [Textarea autocomplete for @-mentions](https://demo.algolia.com/examples/textarea-autocomplete/basic-autocomplete.html) ([code](https://github.com/algolia/examples/tree/master/textarea-autocomplete))
+- [Textarea autocomplete for @-mentions](https://community.algolia.com/demo-textarea-autocomplete/) ([code](https://github.com/algolia/demo-textarea-autocomplete))
 
 ## Community Projects
 
