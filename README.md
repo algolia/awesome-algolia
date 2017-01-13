@@ -41,7 +41,7 @@
 - [iOS](https://github.com/algolia/algoliasearch-client-swift)
 - [Android](https://github.com/algolia/algoliasearch-client-android)
 - [C#](https://github.com/algolia/algoliasearch-client-csharp)
-- [Java](https://github.com/algolia/algoliasearch-client-java)
+- [Java](https://github.com/algolia/algoliasearch-client-java-2)
 - [Go](https://github.com/algolia/algoliasearch-client-go)
 - [Scala](https://github.com/algolia/algoliasearch-client-scala)
 - [Rails](https://github.com/algolia/algoliasearch-rails)
