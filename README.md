@@ -125,6 +125,7 @@
 ## Community Blog Posts
 
 - [Indexing PDF Or Other File Contents For Searching](https://medium.com/@obahareth/indexing-pdf-or-other-file-contents-for-searching-b2499c23568f#.ekfy6dw1s)
+- [How we built our new search using Algolia](https://hashnode.com/post/how-we-built-our-new-search-using-algolia-cinemi2300008e153l9i6gxj6) (covers MongoDB integration)
 
 ## Culture
 
