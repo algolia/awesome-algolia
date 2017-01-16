@@ -61,6 +61,7 @@
 ## Community Integrations
 
 - [SiteCore](https://github.com/dharnitski/Sitecore.Algolia)
+- [Contentful](https://github.com/drublic/contentful-to-algolia)
 
 ## Libraries & Tools
 
