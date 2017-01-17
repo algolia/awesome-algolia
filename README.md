@@ -62,6 +62,7 @@
 
 - [SiteCore](https://github.com/dharnitski/Sitecore.Algolia)
 - [Contentful](https://github.com/drublic/contentful-to-algolia)
+- [Kirby CMS](https://github.com/mlbrgl/kirby-algolia)
 
 ## Libraries & Tools
 
