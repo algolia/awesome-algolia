@@ -64,6 +64,7 @@
 - [Contentful](https://github.com/drublic/contentful-to-algolia)
 - [Kirby CMS](https://github.com/mlbrgl/kirby-algolia)
 - [firebase-search](https://github.com/deltaepsilon/firebase-search)
+- [slate_algolia](https://github.com/keen/slate_algolia)
 
 ## Libraries & Tools
 
