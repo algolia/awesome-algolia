@@ -18,6 +18,8 @@
 - [Community Integrations](#community-integrations)
 - [Libraries & Tools](#libraries--tools)
 - [Demos](#demos)
+- [Talks](#talks)
+- [Community Talks](#community-talks)
 - [Community Projects](#community-projects)
 - [Blog Posts](#blog-posts)
 - [Community Blog Posts](#community-blog-posts)
@@ -90,6 +92,18 @@
 - [instantsearch for vacation rentals](https://community.algolia.com/instantsearch.js/examples/tourism/) ([code](https://github.com/algolia/instantsearch.js/tree/master/docs/examples/tourism))
 - [instantsearch with AdSense](https://demo.algolia.com/examples/instant-search-google-adsense/) ([code](https://github.com/algolia/examples/tree/master/instant-search/google-adsense))
 - [Textarea autocomplete for @-mentions](https://community.algolia.com/demo-textarea-autocomplete/) ([code](https://github.com/algolia/demo-textarea-autocomplete))
+
+## Talks
+
+- [How to build a search-as-you-type application in under 15mn](https://www.youtube.com/watch?v=YfR9oyzoWbc)
+- [Everyone on Support](https://www.youtube.com/watch?v=hQLzyuZ5-NA)
+- [Redux. Why and Where?](https://www.youtube.com/watch?v=8sM6dF_gnYg)
+- [How to discourage remote work](https://www.youtube.com/watch?v=sJW2j1Swcw4)
+- [Let's Chat(bot)](https://www.youtube.com/watch?v=JgrKsifEyZY)
+
+## Community Talks
+
+- [Serverless forums](https://www.youtube.com/watch?v=MvZzZQR77tc) (Algolia, Firebase and Lambdas, by Daniel Parker)
 
 ## Community Projects
 
