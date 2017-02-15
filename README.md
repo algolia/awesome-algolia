@@ -100,6 +100,7 @@
 - [Redux. Why and Where?](https://www.youtube.com/watch?v=8sM6dF_gnYg)
 - [How to discourage remote work](https://www.youtube.com/watch?v=sJW2j1Swcw4)
 - [Let's Chat(bot)](https://www.youtube.com/watch?v=JgrKsifEyZY)
+- [Announcing Search for Facet Values](https://www.youtube.com/watch?v=BuDSmv1fwAc)
 
 ## Community Talks
 
