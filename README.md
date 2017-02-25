@@ -109,6 +109,7 @@
 ## Community Projects
 
 - [Community Home Page](https://community.algolia.com/)
+- [Community Forum (Discourse)](https://discourse.algolia.com/)
 - [Product Hunt](https://www.producthunt.com/search/posts)
 - [Hacker News Search](https://hn.algolia.com/)
 - [FontAwesome](http://fontawesome.io/icons/)
