@@ -149,12 +149,13 @@
 
 ## Community Blog Posts
 
-- [How Mailjet sped up searches in its documentation with Algolia’s DocSearch] (https://stories.algolia.com/how-mailjet-sped-up-searches-in-its-documentation-with-algolias-docsearch-583b57319f12#.qeh4v01lf)
+- [How Mailjet sped up searches in its documentation with Algolia’s DocSearch](https://stories.algolia.com/how-mailjet-sped-up-searches-in-its-documentation-with-algolias-docsearch-583b57319f12#.qeh4v01lf)
 - [How Algolia Powers Thousands of Apps on Scaphold](https://medium.com/@vincening/how-algolia-powers-thousands-of-apps-on-scaphold-d650e7aab6c4#.45iyx1gjp)
 - [Integrating Algolia Search into a Rails App](https://medium.com/@theorynest/integrating-algolia-search-into-a-rails-app-e555a0da4dbf#.6zu5h6wzz)
 - [Indexing PDF Or Other File Contents For Searching](https://medium.com/@obahareth/indexing-pdf-or-other-file-contents-for-searching-b2499c23568f#.ekfy6dw1s)
 - [How we built our new search using Algolia](https://hashnode.com/post/how-we-built-our-new-search-using-algolia-cinemi2300008e153l9i6gxj6) (covers MongoDB integration)
 - [Algolia — A Hosted Search API Reviewed](http://blog.getstream.io/algolia-a-hosted-search-api-reviewed/)
+- [Integrate Algolia with Laravel Scout and Vue.js - Scotch.io](https://scotch.io/tutorials/build-search-functionality-with-laravel-scout-and-vue-js)
 
 ## Culture
 
