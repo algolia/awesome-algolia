@@ -70,6 +70,7 @@
 - [Drupal](https://www.drupal.org/project/search_api_algolia)
 - [Algolia Places ACF field](https://github.com/etaminstudio/acf-field-algolia-places)
 - [Laravel Scout](https://laravel.com/docs/master/scout)
+- [eXist-db](https://github.com/BCDH/exist-algolia-index)
 
 ## Libraries & Tools
 
@@ -161,7 +162,7 @@
 
 - [How Algolia built a Culture-First Company around Ownership](https://stories.algolia.com/how-algolia-built-a-culture-first-company-around-ownership-eee6623b1b6)
 
-## Other 
+## Other
 - [Algolia Codepen](https://codepen.io/team/algolia/)
 - [Algolia on Product Hunt](https://lukyvj.github.io/algolia-ph/)
 
