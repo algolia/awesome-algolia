@@ -107,6 +107,7 @@
 - [How to discourage remote work](https://www.youtube.com/watch?v=sJW2j1Swcw4)
 - [Let's Chat(bot)](https://www.youtube.com/watch?v=JgrKsifEyZY)
 - [Announcing Search for Facet Values](https://www.youtube.com/watch?v=BuDSmv1fwAc)
+- [7 ways to search for a camelCased parameter in your docs](https://speakerdeck.com/dzello/7-ways-to-search-for-a-camelcased-parameter-in-your-docs)
 
 ## Community Talks
 
