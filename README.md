@@ -85,7 +85,8 @@
 - [expect jsx](https://github.com/algolia/expect-jsx)
 - [Searchbox builder](http://shipow.github.io/searchbox/)
 - [Algolia Search Grader](https://grader.algolia.com/)
-- [RapidAPI](https://rapidapi.com/package/Algolia/functions?utm_source=AlgoliaGitHub&utm_medium=button)
+- [RapidAPI Algolia console](https://rapidapi.com/package/Algolia/functions?utm_source=AlgoliaGitHub&utm_medium=button)
+- [instantsearch-electron](https://github.com/algolia/instantsearch-electron)
 
 ## Demos
 
