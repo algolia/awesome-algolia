@@ -72,6 +72,7 @@
 - [Laravel Scout](https://laravel.com/docs/master/scout)
 - [Shopware](https://github.com/synonymous1984/SwAlgolia)
 - [eXist-db](https://github.com/BCDH/exist-algolia-index)
+- [Orchard CMS](https://github.com/Lombiq/Orchard-Algolia-Search)
 
 ## Libraries & Tools
 
