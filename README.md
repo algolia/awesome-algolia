@@ -17,6 +17,7 @@
 - [Official Integrations](#official-integrations)
 - [Community Integrations](#community-integrations)
 - [Libraries & Tools](#libraries--tools)
+- [Community Libraries](#community-libraries)
 - [Demos](#demos)
 - [Talks](#talks)
 - [Community Talks](#community-talks)
@@ -65,14 +66,21 @@
 - [SiteCore](https://github.com/dharnitski/Sitecore.Algolia)
 - [Contentful](https://github.com/drublic/contentful-to-algolia)
 - [Kirby CMS](https://github.com/mlbrgl/kirby-algolia)
-- [firebase-search](https://github.com/deltaepsilon/firebase-search)
-- [slate_algolia](https://github.com/keen/slate_algolia)
+- Firebase:
+  - [Figolia](https://www.npmjs.com/package/figolia)
+  - [firebase-search](https://github.com/deltaepsilon/firebase-search)
+- [Slate](https://github.com/keen/slate_algolia)
 - [Drupal](https://www.drupal.org/project/search_api_algolia)
 - [Algolia Places ACF field](https://github.com/etaminstudio/acf-field-algolia-places)
 - [Laravel Scout](https://laravel.com/docs/master/scout)
 - [Shopware](https://github.com/synonymous1984/SwAlgolia)
 - [eXist-db](https://github.com/BCDH/exist-algolia-index)
 - [Orchard CMS](https://github.com/Lombiq/Orchard-Algolia-Search)
+- [Gitbook](https://www.npmjs.com/package/gitbook-plugin-algolia)
+- [Hapi](https://www.npmjs.com/package/hapi-algolia-search)
+- Hexo: 
+  - [hexo-algoliasearch](https://github.com/LouisBarranqueiro/hexo-algoliasearch)
+  - [hexo-algolia](https://github.com/oncletom/hexo-algolia)
 
 ## Libraries & Tools
 
@@ -88,6 +96,15 @@
 - [Algolia Search Grader](https://grader.algolia.com/)
 - [RapidAPI Algolia console](https://rapidapi.com/package/Algolia/functions?utm_source=AlgoliaGitHub&utm_medium=button)
 - [instantsearch-electron](https://github.com/algolia/instantsearch-electron)
+
+## Community libraries
+
+- [Angular components](https://github.com/tagazok/algolia-angular-components)
+- [CSV toolbox](https://www.npmjs.com/package/algolia-csv)
+- [Web Crawler](https://www.npmjs.com/package/algolia-webcrawler)
+- [Alexa](https://www.npmjs.com/package/algoliasearch-alexa)
+- [Mongoose](https://www.npmjs.com/package/mongoose-algolia)
+
 
 ## Demos
 
@@ -132,6 +149,7 @@
 - [Clinton and Trump Said...](http://clintonandtrumpsaid.com)
 - [Sherlock Search](http://pixelastic.github.io/sherlock-search/)
 - [ParisWeb conferences](https://pixelastic.github.io/parisweb/)
+- [The Common Standards Project](http://commonstandardsproject.com/)
 
 ## Guides & Tutorials
 - [Getting Started — How it Works Guide](https://www.algolia.com/doc/guides/getting-started/how-it-works)
