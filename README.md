@@ -96,6 +96,8 @@
 - [Algolia Search Grader](https://grader.algolia.com/)
 - [RapidAPI Algolia console](https://rapidapi.com/package/Algolia/functions?utm_source=AlgoliaGitHub&utm_medium=button)
 - [instantsearch-electron](https://github.com/algolia/instantsearch-electron)
+- [PHP Dom Parser](https://packagist.org/packages/algolia/php-dom-parser)
+- [Ruby HTML Hierarchy extractor](https://github.com/pixelastic/html-hierarchy-extractor)
 
 ## Community libraries
 
