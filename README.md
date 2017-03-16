@@ -81,6 +81,7 @@
 - Hexo: 
   - [hexo-algoliasearch](https://github.com/LouisBarranqueiro/hexo-algoliasearch)
   - [hexo-algolia](https://github.com/oncletom/hexo-algolia)
+- [Yii2](https://github.com/lordthorzonus/yii2-algolia)
 
 ## Libraries & Tools
 
