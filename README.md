@@ -153,6 +153,7 @@
 - [Sherlock Search](http://pixelastic.github.io/sherlock-search/)
 - [ParisWeb conferences](https://pixelastic.github.io/parisweb/)
 - [The Common Standards Project](http://commonstandardsproject.com/)
+- [Grantmakers](https://www.grantmakers.io/)
 
 ## Guides & Tutorials
 - [Getting Started — How it Works Guide](https://www.algolia.com/doc/guides/getting-started/how-it-works)
