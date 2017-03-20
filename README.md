@@ -184,6 +184,7 @@
 - [How we built our new search using Algolia](https://hashnode.com/post/how-we-built-our-new-search-using-algolia-cinemi2300008e153l9i6gxj6) (covers MongoDB integration)
 - [Algolia — A Hosted Search API Reviewed](http://blog.getstream.io/algolia-a-hosted-search-api-reviewed/)
 - [Integrate Algolia with Laravel Scout and Vue.js - Scotch.io](https://scotch.io/tutorials/build-search-functionality-with-laravel-scout-and-vue-js)
+- [How to Build a Search Engine with Algolia - PHP](https://www.codementor.io/php/tutorial/how-to-build-a-search-engine-algolia)
 
 ## Culture
 
