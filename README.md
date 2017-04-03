@@ -174,6 +174,7 @@
 - [Algolia's Fury Road to a Worldwide API](https://stories.algolia.com/algolia-s-fury-road-to-a-worldwide-api-c1536c46f3a5)
 - [The Architecture Of Algolia’s Distributed Search Network](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
 - [How Algolia Built Their Realtime Search as a Service Product](http://stackshare.io/posts/how-algolia-built-their-realtime-search-as-a-service-product)
+- [How Algolia Reduces Latency For 21B Searches Per Month](https://stackshare.io/algolia/how-algolia-reduces-latency-for-21b-searches-per-month)
 
 ## Community Blog Posts
 
