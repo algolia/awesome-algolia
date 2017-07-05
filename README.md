@@ -52,6 +52,10 @@
 - [Django](https://github.com/algolia/algoliasearch-django)
 - [Laravel](https://github.com/algolia/algoliasearch-laravel)
 
+## Community API Clients
+
+- [Elixir](https://github.com/sikanhe/algolia-elixir)
+
 ## Official Integrations
 
 - [WordPress](https://community.algolia.com/wordpress)
