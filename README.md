@@ -52,6 +52,10 @@
 - [Django](https://github.com/algolia/algoliasearch-django)
 - [Laravel](https://github.com/algolia/algoliasearch-laravel)
 
+## Community API Clients
+
+- [Elixir](https://github.com/sikanhe/algolia-elixir)
+
 ## Official Integrations
 
 - [WordPress](https://community.algolia.com/wordpress)
@@ -85,7 +89,6 @@
 - [Docute](https://docute.js.org/#/plugins?id=docsearch)
 - [Ember](https://github.com/trouva/ember-algolia)
 - [NativeScript](https://github.com/arpit2438735/nativescript-algolia)
-- [Elixir](https://github.com/sikanhe/algolia-elixir)
 
 ## Libraries & Tools
 
