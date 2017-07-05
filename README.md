@@ -85,6 +85,7 @@
 - [Docute](https://docute.js.org/#/plugins?id=docsearch)
 - [Ember](https://github.com/trouva/ember-algolia)
 - [NativeScript](https://github.com/arpit2438735/nativescript-algolia)
+- [Elixir](https://github.com/sikanhe/algolia-elixir)
 
 ## Libraries & Tools
 
