@@ -51,6 +51,7 @@
 - [Symfony](https://github.com/algolia/AlgoliaSearchBundle)
 - [Django](https://github.com/algolia/algoliasearch-django)
 - [Laravel](https://github.com/algolia/algoliasearch-laravel)
+- [Nativescript](https://github.com/arpit2438735/nativescript-algolia)
 
 ## Official Integrations
 
