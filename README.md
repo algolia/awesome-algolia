@@ -51,7 +51,6 @@
 - [Symfony](https://github.com/algolia/AlgoliaSearchBundle)
 - [Django](https://github.com/algolia/algoliasearch-django)
 - [Laravel](https://github.com/algolia/algoliasearch-laravel)
-- [Nativescript](https://github.com/arpit2438735/nativescript-algolia)
 
 ## Official Integrations
 
@@ -85,6 +84,7 @@
 - [Yii2](https://github.com/lordthorzonus/yii2-algolia)
 - [Docute](https://docute.js.org/#/plugins?id=docsearch)
 - [Ember](https://github.com/trouva/ember-algolia)
+- [NativeScript](https://github.com/arpit2438735/nativescript-algolia)
 
 ## Libraries & Tools
 
