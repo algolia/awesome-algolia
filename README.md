@@ -90,6 +90,7 @@
 - [Ember](https://github.com/trouva/ember-algolia)
 - [NativeScript](https://github.com/arpit2438735/nativescript-algolia)
 - [Graphcool](https://www.graph.cool/docs/tutorials/algolia-auto-syncing-for-graphql-backends-aroozee9zu/)
+- [Ghost](https://github.com/mlbrgl/ghost-algolia)
 
 ## Libraries & Tools
 
