@@ -94,7 +94,7 @@
 
 ## Libraries & Tools
 
-- [React InstantSearch](https://community.algolia.com/instantsearch.js/react/)
+- [React InstantSearch](https://community.algolia.com/react-instantsearch/)
 - [instantsearch.js](https://community.algolia.com/instantsearch.js/)
 - [autocomplete.js](https://github.com/algolia/autocomplete.js)
 - [Algolia JS Helper](https://community.algolia.com/algoliasearch-helper-js/)
