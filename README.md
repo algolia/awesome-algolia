@@ -97,6 +97,8 @@
 - [React InstantSearch](https://community.algolia.com/react-instantsearch/)
 - [Vue InstantSearch](https://community.algolia.com/vue-instantsearch/)
 - [instantsearch.js](https://community.algolia.com/instantsearch.js/)
+- [instantsearch iOS](https://community.algolia.com/instantsearch-ios/)
+- [instantsearch Android](https://community.algolia.com/instantsearch-android/)
 - [autocomplete.js](https://github.com/algolia/autocomplete.js)
 - [Algolia JS Helper](https://community.algolia.com/algoliasearch-helper-js/)
 - [Algolia Places](https://community.algolia.com/places/)
