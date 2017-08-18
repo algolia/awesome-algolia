@@ -171,6 +171,7 @@
 - [Getting Started — How it Works Guide](https://www.algolia.com/doc/guides/getting-started/how-it-works)
 - [Getting Started — Quickstart](https://www.algolia.com/doc/guides/getting-started/quick-start)
 - [10-minute instantsearch.js workshop](https://github.com/algolia/instantsearch-workshop)
+- [Incredibly Fast Instant Search With Algolia and Vue - Laracasts](https://laracasts.com/series/whatcha-working-on/episodes/16)
 
 ## Blog Posts
 - [Algolia Blog](https://blog.algolia.com/)
