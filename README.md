@@ -55,6 +55,7 @@
 ## Community API Clients
 
 - [Elixir](https://github.com/sikanhe/algolia-elixir)
+- [ColdFusion](https://github.com/mjclemente/algolia.cfc)
 
 ## Official Integrations
 
