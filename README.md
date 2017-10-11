@@ -56,6 +56,7 @@
 
 - [Elixir](https://github.com/sikanhe/algolia-elixir)
 - [ColdFusion](https://github.com/mjclemente/algolia.cfc)
+- [.NET (analytics)](https://github.com/chilas/algolia-analytics)
 
 ## Official Integrations
 
