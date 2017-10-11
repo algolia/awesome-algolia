@@ -56,6 +56,7 @@
 
 - [Elixir](https://github.com/sikanhe/algolia-elixir)
 - [ColdFusion](https://github.com/mjclemente/algolia.cfc)
+- [Erlang](https://github.com/k3nn7/algoliasearch-client-erlang)
 
 ## Official Integrations
 
