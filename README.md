@@ -119,7 +119,9 @@
 - [CSV toolbox](https://www.npmjs.com/package/algolia-csv)
 - [Web Crawler](https://www.npmjs.com/package/algolia-webcrawler)
 - [Alexa](https://www.npmjs.com/package/algoliasearch-alexa)
-- [Mongoose](https://www.npmjs.com/package/mongoose-algolia)
+- Mongoose:
+  - [mongoose-algolia-index](https://github.com/riyadhalnur/mongoose-algolia-index)
+  - [mongoose-algolia](https://www.npmjs.com/package/mongoose-algolia)
 
 
 ## Demos
