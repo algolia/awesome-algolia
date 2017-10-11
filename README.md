@@ -182,6 +182,8 @@
 - [Getting Started — Quickstart](https://www.algolia.com/doc/guides/getting-started/quick-start)
 - [10-minute instantsearch.js workshop](https://github.com/algolia/instantsearch-workshop)
 - [Incredibly Fast Instant Search With Algolia and Vue - Laracasts](https://laracasts.com/series/whatcha-working-on/episodes/16)
+- [Firestore full-text search guide](https://firebase.google.com/docs/firestore/solutions/search)
+- [Firebase full-text search cloud function template](https://github.com/firebase/functions-samples/tree/master/fulltext-search)
 
 ## Blog Posts
 - [Algolia Blog](https://blog.algolia.com/)
