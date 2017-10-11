@@ -56,6 +56,8 @@
 
 - [Elixir](https://github.com/sikanhe/algolia-elixir)
 - [ColdFusion](https://github.com/mjclemente/algolia.cfc)
+- [Erlang](https://github.com/k3nn7/algoliasearch-client-erlang)
+- [.NET (analytics)](https://github.com/chilas/algolia-analytics)
 
 ## Official Integrations
 
@@ -93,6 +95,9 @@
 - [Graphcool](https://www.graph.cool/docs/tutorials/algolia-auto-syncing-for-graphql-backends-aroozee9zu/)
 - [Ghost](https://github.com/mlbrgl/ghost-algolia)
 - [NationBuilder](https://github.com/etaminstudio/algoliasearch-nationbuilder)
+- [Odoo](https://github.com/akretion/connector-search-engine)
+- [Node Base](https://github.com/doowb/search-indexer-algolia)
+- [Metalsmith](https://github.com/stafyniaksacha/metalsmith-algolia)
 
 ## Libraries & Tools
 
@@ -120,7 +125,9 @@
 - [CSV toolbox](https://www.npmjs.com/package/algolia-csv)
 - [Web Crawler](https://www.npmjs.com/package/algolia-webcrawler)
 - [Alexa](https://www.npmjs.com/package/algoliasearch-alexa)
-- [Mongoose](https://www.npmjs.com/package/mongoose-algolia)
+- Mongoose:
+  - [mongoose-algolia-index](https://github.com/riyadhalnur/mongoose-algolia-index)
+  - [mongoose-algolia](https://www.npmjs.com/package/mongoose-algolia)
 
 
 ## Demos
