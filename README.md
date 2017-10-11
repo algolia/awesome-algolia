@@ -154,6 +154,7 @@
 ## Community Talks
 
 - [Serverless forums](https://www.youtube.com/watch?v=MvZzZQR77tc) (Algolia, Firebase and Lambdas, by Daniel Parker) — [Slides](https://drive.google.com/file/d/0B24gCoOT2bpsS3h4bE9hVklfZGc/view?pli=1)
+- [Algolia + Glimmer](https://pusher.com/sessions/meetup/ember-london/algolia-glimmer-high-voltage) - by [@mschinis](https://github.com/mschinis)
 
 ## Community Projects
 
