@@ -92,13 +92,13 @@
 - [Docute](https://docute.js.org/#/plugins?id=docsearch)
 - [Ember](https://github.com/trouva/ember-algolia)
 - [NativeScript](https://github.com/arpit2438735/nativescript-algolia)
-- [GraphCMS](https://graphcms.com/docs/integrations/Algolia/)
 - [Graphcool](https://www.graph.cool/docs/tutorials/algolia-auto-syncing-for-graphql-backends-aroozee9zu/)
 - [Ghost](https://github.com/mlbrgl/ghost-algolia)
 - [NationBuilder](https://github.com/etaminstudio/algoliasearch-nationbuilder)
 - [Odoo](https://github.com/akretion/connector-search-engine)
 - [Node Base](https://github.com/doowb/search-indexer-algolia)
 - [Metalsmith](https://github.com/stafyniaksacha/metalsmith-algolia)
+- [GraphCMS](https://graphcms.com/docs/integrations/Algolia/)
 
 ## Libraries & Tools
 
