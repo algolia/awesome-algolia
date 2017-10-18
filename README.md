@@ -98,6 +98,7 @@
 - [Odoo](https://github.com/akretion/connector-search-engine)
 - [Node Base](https://github.com/doowb/search-indexer-algolia)
 - [Metalsmith](https://github.com/stafyniaksacha/metalsmith-algolia)
+- [GraphCMS](https://graphcms.com/docs/integrations/Algolia/)
 
 ## Libraries & Tools
 
