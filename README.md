@@ -119,6 +119,7 @@
 - [instantsearch-electron](https://github.com/algolia/instantsearch-electron)
 - [PHP Dom Parser](https://packagist.org/packages/algolia/php-dom-parser)
 - [Ruby HTML Hierarchy extractor](https://github.com/pixelastic/html-hierarchy-extractor)
+- [Algolia, Materialize and Jekyll template](https://github.com/chadokruse/algolia-materialize-jekyll)
 
 ## Community libraries
 
@@ -129,7 +130,6 @@
 - Mongoose:
   - [mongoose-algolia-index](https://github.com/riyadhalnur/mongoose-algolia-index)
   - [mongoose-algolia](https://www.npmjs.com/package/mongoose-algolia)
-
 
 ## Demos
 
