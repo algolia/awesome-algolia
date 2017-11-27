@@ -76,6 +76,7 @@
 - Firebase:
   - [Figolia](https://www.npmjs.com/package/figolia)
   - [firebase-search](https://github.com/deltaepsilon/firebase-search)
+  - [algolia-firebase-functions](https://github.com/fobo66/algolia-firebase-functions)
 - [Slate](https://github.com/keen/slate_algolia)
 - [Drupal](https://www.drupal.org/project/search_api_algolia)
 - [Algolia Places ACF field](https://github.com/etaminstudio/acf-field-algolia-places)
