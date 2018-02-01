@@ -89,6 +89,9 @@
 - Hexo: 
   - [hexo-algoliasearch](https://github.com/LouisBarranqueiro/hexo-algoliasearch)
   - [hexo-algolia](https://github.com/oncletom/hexo-algolia)
+- Hugo:
+  - [algolia-hugo](https://github.com/duckpuppy/algolia-hugo)
+  - [hugo-algolia](https://yarnpkg.com/en/package/hugo-algolia)
 - [Yii2](https://github.com/lordthorzonus/yii2-algolia)
 - [Docute](https://docute.js.org/#/plugins?id=docsearch)
 - [Ember](https://github.com/trouva/ember-algolia)
