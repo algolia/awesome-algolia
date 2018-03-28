@@ -66,7 +66,7 @@
 - [Magento 2](https://community.algolia.com/magento/)
 - [Shopify](https://community.algolia.com/shopify/)
 - [Zendesk](https://community.algolia.com/zendesk/)
-- [Jekyll](https://github.com/algolia/algoliasearch-jekyll)
+- [Jekyll](https://community.algolia.com/jekyll-algolia/)
 
 ## Community Integrations
 
