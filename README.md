@@ -175,7 +175,7 @@
 - [Oval Quotes](http://oval-quotes.dzello.com/)
 - [DocSearch Partners](https://community.algolia.com/docsearch/)
 - [Algolia Customers and Case Studies](https://www.algolia.com/customers)
-- [BetaList Jobs](https://betalist.com/jobs)
+- [Startup Jobs](https://startup.jobs)
 - [windtoday.co](https://windtoday.co)
 - [Apifood.co](http://apifood.co)
 - [Clinton and Trump Said...](http://clintonandtrumpsaid.com)
