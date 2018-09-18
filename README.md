@@ -104,7 +104,7 @@
 - [Metalsmith](https://github.com/stafyniaksacha/metalsmith-algolia)
 - [GraphCMS](https://graphcms.com/docs/integrations/Algolia/)
 - [Moodle](https://moodle.org/plugins/search_algolia)
-- [PrestaShop](https://dh42.com/prestashop-modules/prestashop-algolia-module/) (Paid module)
+- [PrestaShop 1.6](https://dh42.com/prestashop-modules/prestashop-algolia-module/)
 
 ## Libraries & Tools
 
