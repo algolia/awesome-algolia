@@ -50,7 +50,7 @@
 - [Rails](https://github.com/algolia/algoliasearch-rails)
 - [Symfony](https://github.com/algolia/AlgoliaSearchBundle)
 - [Django](https://github.com/algolia/algoliasearch-django)
-- [Laravel](https://github.com/algolia/algoliasearch-laravel)
+- [Laravel](https://github.com/algolia/scout-extended)
 
 ## Community API Clients
 
