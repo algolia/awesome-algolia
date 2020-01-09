@@ -191,6 +191,7 @@
 - [Incredibly Fast Instant Search With Algolia and Vue - Laracasts](https://laracasts.com/series/whatcha-working-on/episodes/16)
 - [Firestore full-text search guide](https://firebase.google.com/docs/firestore/solutions/search)
 - [Firebase full-text search cloud function template](https://github.com/firebase/functions-samples/tree/master/fulltext-search)
+- [Sync GraphCMS with Algolia](https://dev.to/notrab/sync-graphcms-content-to-algolia-for-super-fast-faceted-search-fc3)
 
 ## Blog Posts
 - [Algolia Blog](https://blog.algolia.com/)
