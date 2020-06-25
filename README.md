@@ -86,7 +86,7 @@
 - [Orchard CMS](https://github.com/Lombiq/Orchard-Algolia-Search)
 - [Gitbook](https://www.npmjs.com/package/gitbook-plugin-algolia)
 - [Hapi](https://www.npmjs.com/package/hapi-algolia-search)
-- Hexo: 
+- Hexo:
   - [hexo-algoliasearch](https://github.com/LouisBarranqueiro/hexo-algoliasearch)
   - [hexo-algolia](https://github.com/oncletom/hexo-algolia)
 - Hugo:
@@ -147,6 +147,9 @@
 - [instantsearch for vacation rentals](https://community.algolia.com/instantsearch.js/examples/tourism/) ([code](https://github.com/algolia/instantsearch.js/tree/master/docs/examples/tourism))
 - [instantsearch with AdSense](https://demo.algolia.com/examples/instant-search-google-adsense/) ([code](https://github.com/algolia/examples/tree/master/instant-search/google-adsense))
 - [Textarea autocomplete for @-mentions](https://community.algolia.com/demo-textarea-autocomplete/) ([code](https://github.com/algolia/demo-textarea-autocomplete))
+### Community
+
+- [search and filters for Rick and Morty characters](https://rick-and-morty-chars.netlify.app/) ([code](https://github.com/ShahAnuj2610/rick-and-morty-characters))
 
 ## Talks
 
