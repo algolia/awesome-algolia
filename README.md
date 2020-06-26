@@ -142,11 +142,12 @@
 - [instantsearch product search](https://demos.algolia.com/instant-search-demo/) ([code](https://github.com/algolia/instant-search-demo))
 - [instantsearch for smashingmagazine.com](https://community.algolia.com/demo-smashingmagazine/) ([code](https://github.com/algolia/demo-smashingmagazine/))
 - [Geo search for airports](https://demos.algolia.com/geo-search-demo/) ([code](https://github.com/algolia/demo-geo-search))
-- [instantsearch for media](https://community.algolia.com/instantsearch.js/examples/media/) ([code](https://github.com/algolia/instantsearch.js/tree/master/docs/examples/media))
-- [instantsearch for ecommerce](https://community.algolia.com/instantsearch.js/examples/e-commerce/) ([code](https://github.com/algolia/instantsearch.js/tree/master/docs/examples/e-commerce))
-- [instantsearch for vacation rentals](https://community.algolia.com/instantsearch.js/examples/tourism/) ([code](https://github.com/algolia/instantsearch.js/tree/master/docs/examples/tourism))
+- [instantsearch for media](https://community.algolia.com/instantsearch.js/examples/media/) ([code](https://github.com/algolia/instantsearch.js/tree/master/examples/media))
+- [instantsearch for ecommerce](https://community.algolia.com/instantsearch.js/examples/e-commerce/) ([code](https://github.com/algolia/instantsearch.js/tree/master/examples/e-commerce))
+- [instantsearch for vacation rentals](https://community.algolia.com/instantsearch.js/examples/tourism/) ([code](https://github.com/algolia/instantsearch.js/tree/master/examples/tourism))
 - [instantsearch with AdSense](https://demo.algolia.com/examples/instant-search-google-adsense/) ([code](https://github.com/algolia/examples/tree/master/instant-search/google-adsense))
 - [Textarea autocomplete for @-mentions](https://community.algolia.com/demo-textarea-autocomplete/) ([code](https://github.com/algolia/demo-textarea-autocomplete))
+
 ### Community
 
 - [search and filters for Rick and Morty characters](https://rick-and-morty-chars.netlify.app/) ([code](https://github.com/ShahAnuj2610/rick-and-morty-characters))
