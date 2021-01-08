@@ -135,7 +135,9 @@
 - [Alexa](https://www.npmjs.com/package/algoliasearch-alexa)
 - Mongoose:
   - [mongoose-algolia-index](https://github.com/riyadhalnur/mongoose-algolia-index)
-  - [mongoose-algolia](https://www.npmjs.com/package/mongoose-algolia)
+  - [mongoose-algolia](https://github.com/crsten/mongoose-algolia)
+  - [mongoolia-v5](https://github.com/thedv91/mongoolia-v5)
+  - [mongoolia](https://github.com/algolia/mongoolia)
 
 ## Demos
 
