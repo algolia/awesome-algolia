@@ -138,6 +138,7 @@
   - [mongoose-algolia](https://github.com/crsten/mongoose-algolia)
   - [mongoolia-v5](https://github.com/thedv91/mongoolia-v5)
   - [mongoolia](https://github.com/algolia/mongoolia)
+- [Terraform Provider](https://registry.terraform.io/providers/k-yomo/algolia/latest/docs)
 
 ## Demos
 
