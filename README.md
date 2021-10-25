@@ -138,7 +138,11 @@
   - [mongoose-algolia](https://github.com/crsten/mongoose-algolia)
   - [mongoolia-v5](https://github.com/thedv91/mongoolia-v5)
   - [mongoolia](https://github.com/algolia/mongoolia)
-- [Terraform Provider](https://registry.terraform.io/providers/k-yomo/algolia/latest/docs)
+- Terraform:
+  - [k-yomo/terraform-provider-algolia](https://github.com/k-yomo/terraform-provider-algolia)
+  - [philippe-vandermoere/terraform-provider-algolia](https://github.com/philippe-vandermoere/terraform-provider-algolia)
+  - [brightnetwork/terraform-provider-algolia](https://github.com/brightnetwork/terraform-provider-algolia)
+  - [SectorLabs/terraform-provider-algolia](https://github.com/SectorLabs/terraform-provider-algolia)
 
 ## Demos
 
