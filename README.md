@@ -105,6 +105,7 @@
 - [GraphCMS](https://graphcms.com/docs/integrations/Algolia/)
 - [Moodle](https://moodle.org/plugins/search_algolia)
 - [PrestaShop 1.6](https://dh42.com/prestashop-modules/prestashop-algolia-module/)
+- [WP Search with Algolia](https://wordpress.org/plugins/wp-search-with-algolia/)
 
 ## Libraries & Tools
 
