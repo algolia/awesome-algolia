@@ -42,7 +42,7 @@
 - [Ruby](https://github.com/algolia/algoliasearch-client-ruby)
 - [Python](https://github.com/algolia/algoliasearch-client-python)
 - [iOS](https://github.com/algolia/algoliasearch-client-swift)
-- [Android](https://github.com/algolia/algoliasearch-client-android)
+- [Android](https://github.com/algolia/algoliasearch-client-kotlin)
 - [C#](https://github.com/algolia/algoliasearch-client-csharp)
 - [Java](https://github.com/algolia/algoliasearch-client-java-2)
 - [Go](https://github.com/algolia/algoliasearch-client-go)
@@ -51,6 +51,7 @@
 - [Symfony](https://github.com/algolia/AlgoliaSearchBundle)
 - [Django](https://github.com/algolia/algoliasearch-django)
 - [Laravel](https://github.com/algolia/scout-extended)
+- [Kotlin](https://github.com/algolia/algoliasearch-client-kotlin)
 
 ## Community API Clients
 
