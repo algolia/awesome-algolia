@@ -62,12 +62,11 @@
 
 ## Official Integrations
 
-- [WordPress](https://community.algolia.com/wordpress)
-- [Magento](https://community.algolia.com/magento/)
-- [Magento 2](https://community.algolia.com/magento/)
-- [Shopify](https://community.algolia.com/shopify/)
-- [Zendesk](https://community.algolia.com/zendesk/)
-- [Jekyll](https://community.algolia.com/jekyll-algolia/)
+- [WordPress](https://www.algolia.com/doc/integration/wordpress/getting-started/quick-start/)
+- [Magento](https://www.algolia.com/search-solutions/adobe-commerce-magento/)
+- [Magento 2](https://www.algolia.com/search-solutions/adobe-commerce-magento/)
+- [Shopify](https://www.algolia.com/doc/integration/shopify/getting-started/quick-start/)
+- [Zendesk](https://www.algolia.com/doc/integration/zendesk/get-started/)
 
 ## Community Integrations
 
@@ -107,6 +106,7 @@
 - [Moodle](https://moodle.org/plugins/search_algolia)
 - [PrestaShop 1.6](https://dh42.com/prestashop-modules/prestashop-algolia-module/)
 - [WP Search with Algolia](https://wordpress.org/plugins/wp-search-with-algolia/)
+- [Jekyll](https://github.com/algolia/jekyll-algolia)
 
 ## Libraries & Tools
 
