@@ -145,6 +145,12 @@
   - [philippe-vandermoere/terraform-provider-algolia](https://github.com/philippe-vandermoere/terraform-provider-algolia)
   - [brightnetwork/terraform-provider-algolia](https://github.com/brightnetwork/terraform-provider-algolia)
   - [SectorLabs/terraform-provider-algolia](https://github.com/SectorLabs/terraform-provider-algolia)
+- Flutter:
+  - [Algolia Helper Flutter](https://pub.dev/packages/algolia_helper_flutter)
+  - [Algolia Search Flutter](https://pub.dev/packages/algoliasearch)
+  - [Algolia Insights Flutter](https://pub.dev/packages/algolia_insights)
+  - [Algolia Client Search Flutter](https://pub.dev/packages/algolia_client_search)
+  - [Algolia Client Recommend Flutter](https://pub.dev/packages/algolia_client_recommend)
 
 ## Demos
 
@@ -205,6 +211,7 @@
 - [Firestore full-text search guide](https://firebase.google.com/docs/firestore/solutions/search)
 - [Firebase full-text search cloud function template](https://github.com/firebase/functions-samples/tree/master/fulltext-search)
 - [Sync GraphCMS with Algolia](https://dev.to/notrab/sync-graphcms-content-to-algolia-for-super-fast-faceted-search-fc3)
+- [Getting started with Flutter Helper](https://www.algolia.com/doc/guides/building-search-ui/getting-started/flutter)
 
 ## Blog Posts
 - [Algolia Blog](https://blog.algolia.com/)
