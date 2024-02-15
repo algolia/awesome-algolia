@@ -52,6 +52,7 @@
 - [Django](https://github.com/algolia/algoliasearch-django)
 - [Laravel](https://github.com/algolia/scout-extended)
 - [Kotlin](https://github.com/algolia/algoliasearch-client-kotlin)
+- [Dart](https://github.com/algolia/algoliasearch-client-dart)
 
 ## Community API Clients
 
@@ -128,6 +129,10 @@
 - [PHP Dom Parser](https://packagist.org/packages/algolia/php-dom-parser)
 - [Ruby HTML Hierarchy extractor](https://github.com/pixelastic/html-hierarchy-extractor)
 - [Algolia, Materialize and Jekyll template](https://github.com/chadokruse/algolia-materialize-jekyll)
+- Flutter:
+  - [Algolia Helper Flutter](https://pub.dev/packages/algolia_helper_flutter)
+  - [Algolia Search Flutter](https://pub.dev/packages/algoliasearch)
+  - [Algolia Insights Flutter](https://pub.dev/packages/algolia_insights)
 
 ## Community libraries
 
@@ -205,6 +210,7 @@
 - [Firestore full-text search guide](https://firebase.google.com/docs/firestore/solutions/search)
 - [Firebase full-text search cloud function template](https://github.com/firebase/functions-samples/tree/master/fulltext-search)
 - [Sync GraphCMS with Algolia](https://dev.to/notrab/sync-graphcms-content-to-algolia-for-super-fast-faceted-search-fc3)
+- [Getting started with Flutter Helper](https://www.algolia.com/doc/guides/building-search-ui/getting-started/flutter)
 
 ## Blog Posts
 - [Algolia Blog](https://blog.algolia.com/)
