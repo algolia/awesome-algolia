@@ -52,6 +52,7 @@
 - [Django](https://github.com/algolia/algoliasearch-django)
 - [Laravel](https://github.com/algolia/scout-extended)
 - [Kotlin](https://github.com/algolia/algoliasearch-client-kotlin)
+- [Dart](https://github.com/algolia/algoliasearch-client-dart)
 
 ## Community API Clients
 
@@ -128,6 +129,10 @@
 - [PHP Dom Parser](https://packagist.org/packages/algolia/php-dom-parser)
 - [Ruby HTML Hierarchy extractor](https://github.com/pixelastic/html-hierarchy-extractor)
 - [Algolia, Materialize and Jekyll template](https://github.com/chadokruse/algolia-materialize-jekyll)
+- Flutter:
+  - [Algolia Helper Flutter](https://pub.dev/packages/algolia_helper_flutter)
+  - [Algolia Search Flutter](https://pub.dev/packages/algoliasearch)
+  - [Algolia Insights Flutter](https://pub.dev/packages/algolia_insights)
 
 ## Community libraries
 
@@ -145,12 +150,6 @@
   - [philippe-vandermoere/terraform-provider-algolia](https://github.com/philippe-vandermoere/terraform-provider-algolia)
   - [brightnetwork/terraform-provider-algolia](https://github.com/brightnetwork/terraform-provider-algolia)
   - [SectorLabs/terraform-provider-algolia](https://github.com/SectorLabs/terraform-provider-algolia)
-- Flutter:
-  - [Algolia Helper Flutter](https://pub.dev/packages/algolia_helper_flutter)
-  - [Algolia Search Flutter](https://pub.dev/packages/algoliasearch)
-  - [Algolia Insights Flutter](https://pub.dev/packages/algolia_insights)
-  - [Algolia Client Search Flutter](https://pub.dev/packages/algolia_client_search)
-  - [Algolia Client Recommend Flutter](https://pub.dev/packages/algolia_client_recommend)
 
 ## Demos
 
