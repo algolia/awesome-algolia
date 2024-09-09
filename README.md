@@ -107,6 +107,7 @@
 - [PrestaShop 1.6](https://dh42.com/prestashop-modules/prestashop-algolia-module/)
 - [WP Search with Algolia](https://wordpress.org/plugins/wp-search-with-algolia/)
 - [Jekyll](https://github.com/algolia/jekyll-algolia)
+- [Svelte](https://github.com/aymeric-giraudet/svelte-algolia-instantsearch)
 
 ## Libraries & Tools
 
@@ -198,6 +199,7 @@
 - [Grantmakers](https://www.grantmakers.io/)
 
 ## Guides & Tutorials
+
 - [Getting Started — How it Works Guide](https://www.algolia.com/doc/guides/getting-started/how-it-works)
 - [Getting Started — Quickstart](https://www.algolia.com/doc/guides/getting-started/quick-start)
 - [10-minute instantsearch.js workshop](https://github.com/algolia/instantsearch-workshop)
@@ -207,9 +209,10 @@
 - [Sync GraphCMS with Algolia](https://dev.to/notrab/sync-graphcms-content-to-algolia-for-super-fast-faceted-search-fc3)
 
 ## Blog Posts
+
 - [Algolia Blog](https://blog.algolia.com/)
 - [Algolia Stories](https://stories.algolia.com/)
-- *Inside the Algolia Engine* blog post series
+- _Inside the Algolia Engine_ blog post series
   - [Part 1 — Indexing vs. Search](https://blog.algolia.com/inside-the-algolia-engine-part-1-indexing-vs-search/)
   - [Part 2 — The Indexing Challenge of Instant Search](https://blog.algolia.com/inside-the-algolia-engine-part-2-the-indexing-challenge-of-instant-search/)
   - [Part 3 — Query Processing](https://blog.algolia.com/inside-the-algolia-engine-part-3-query-processing/)
@@ -239,6 +242,7 @@
 - [How Algolia built a Culture-First Company around Ownership](https://stories.algolia.com/how-algolia-built-a-culture-first-company-around-ownership-eee6623b1b6)
 
 ## Other
+
 - [Algolia Codepen](https://codepen.io/team/algolia/)
 - [Algolia on Product Hunt](https://lukyvj.github.io/algolia-ph/)
 
